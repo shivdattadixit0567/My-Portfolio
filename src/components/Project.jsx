@@ -10,7 +10,7 @@ function Project() {
         <h1 className="text-3xl font-bold text-indigo-500 mt-20">Projects</h1>
         <div className="flex justify-between">
           <div className="mt-10 flex justify-between">
-            <div className="w-80 h-21rem hover:drop-shadow-2xl bg-slate-50 pl-3 pr-3">
+            <div className="w-80 h-21rem hover:drop-shadow-2xl bg-slate-50 pl-4 pr-4">
               <img
                 className="w-72 h-60 rounded-3xl p-1"
                 src="https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&w=1200"
@@ -21,21 +21,21 @@ function Project() {
                 A full-stack expense solution built with MERN stack
               </p>
               <div className="flex p-1">
-                <img
-                  className="w-7 h-7"
-                  src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                ></img>
                 <a
                   href="https://github.com/shivdattadixit0567/Expense-Tracker"
                   target="_blank"
                 >
+                  <img
+                    className="w-7 h-7"
+                    src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
+                  ></img>
                   Live
                 </a>
               </div>
             </div>
           </div>
           <div className="mt-10 flex justify-between">
-            <div className="w-80 h-21rem hover:drop-shadow-2xl bg-slate-50 pl-3 pr-3">
+            <div className="w-80 h-21rem hover:drop-shadow-2xl bg-slate-50 pl-4 pr-4">
               <img
                 className="w-72 h-60 rounded-3xl p-1"
                 src="https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&w=1200"
@@ -46,21 +46,21 @@ function Project() {
                 A Blog application with user authentication and CRUD operations
               </p>
               <div className="flex p-1">
-                <img
-                  className="w-7 h-7"
-                  src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                ></img>
                 <a
                   href="https://github.com/shivdattadixit0567/FullStack-Blog-App"
                   target="_blank"
                 >
+                  <img
+                    className="w-7 h-7"
+                    src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
+                  ></img>
                   Live
                 </a>
               </div>
             </div>
           </div>
           <div className="mt-10 flex justify-between">
-            <div className="w-80 h-21rem hover:drop-shadow-2xl bg-slate-50 pl-3 pr-3">
+            <div className="w-80 h-21rem hover:drop-shadow-2xl bg-slate-50 pl-4 pr-4">
               <img
                 className="w-72 h-60 rounded-3xl p-1"
                 src="https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&w=1200"
@@ -79,6 +79,10 @@ function Project() {
                   href="https://github.com/shivdattadixit0567/My-Portfolio"
                   target="_blank"
                 >
+                  <img
+                    className="w-7 h-7"
+                    src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
+                  ></img>
                   Live
                 </a>
               </div>
