@@ -29,7 +29,7 @@ function Project() {
                   <img
                     className="w-7 h-7"
                     src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                  ></img>
+                  />
                   Live
                 </a>
               </div>
@@ -55,7 +55,7 @@ function Project() {
                   <img
                     className="w-7 h-7"
                     src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                  ></img>
+                  />
                   Live
                 </a>
               </div>
@@ -80,8 +80,8 @@ function Project() {
                 >
                   <img
                     className="w-7 h-7"
-                    src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                  ></img>
+                    src="https://my-portfolio-pi-teal-48.vercel.app/"
+                  />
                   Live
                 </a>
               </div>
