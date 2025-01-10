@@ -10,7 +10,7 @@ function Project() {
         <h1 className="text-3xl font-bold text-indigo-500 mt-20">Projects</h1>
         <div className="flex justify-between">
           <div className="mt-10 flex justify-between">
-            <div className="w-72 h-21rem hover:drop-shadow-2xl bg-slate-50">
+            <div className="w-80 h-21rem hover:drop-shadow-2xl bg-slate-50">
               <img
                 className="w-72 h-60 rounded-3xl p-1"
                 src="https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&w=1200"
@@ -35,7 +35,7 @@ function Project() {
             </div>
           </div>
           <div className="mt-10 flex justify-between">
-            <div className="w-72 h-21rem hover:drop-shadow-2xl bg-slate-50">
+            <div className="w-80 h-21rem hover:drop-shadow-2xl bg-slate-50">
               <img
                 className="w-72 h-60 rounded-3xl p-1"
                 src="https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&w=1200"
@@ -60,7 +60,7 @@ function Project() {
             </div>
           </div>
           <div className="mt-10 flex justify-between">
-            <div className="w-72 h-21rem hover:drop-shadow-2xl bg-slate-50">
+            <div className="w-80 h-21rem hover:drop-shadow-2xl bg-slate-50">
               <img
                 className="w-72 h-60 rounded-3xl p-1"
                 src="https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg?auto=compress&cs=tinysrgb&w=1200"

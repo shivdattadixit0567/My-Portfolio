@@ -28,7 +28,7 @@ function Home() {
           </h1>
         </div>
         <div className="mt-5">
-          <button className="bg-white text-indigo-500 font-bold py-2 px-4 rounded-3xl">
+          <button className="bg-white text-indigo-500 font-bold py-2 px-4 rounded-3xl hover:bg-indigo-500 hover:text-white hover:rounded-3xl active:drop-shadow-2xl">
             Download CV
           </button>
         </div>
