@@ -22,15 +22,15 @@ function Project() {
               </p>
               <div className="flex p-1">
                 <a
+                  className="inline-block"
                   href="https://github.com/shivdattadixit0567/Expense-Tracker"
                   target="_blank"
                 >
                   <img
                     className="w-7 h-7"
                     src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                  >
-                    Live
-                  </img>
+                  ></img>
+                  Live
                 </a>
               </div>
             </div>
@@ -48,15 +48,15 @@ function Project() {
               </p>
               <div className="flex p-1">
                 <a
+                  className="inline-block"
                   href="https://github.com/shivdattadixit0567/FullStack-Blog-App"
                   target="_blank"
                 >
                   <img
                     className="w-7 h-7"
                     src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                  >
-                    Live
-                  </img>
+                  ></img>
+                  Live
                 </a>
               </div>
             </div>
@@ -74,16 +74,15 @@ function Project() {
               </p>
               <div className="flex p-1">
                 <a
+                  className="inline-block"
                   href="https://github.com/shivdattadixit0567/My-Portfolio"
                   target="_blank"
                 >
                   <img
                     className="w-7 h-7"
                     src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                  >
-                    {" "}
-                    Live{" "}
-                  </img>
+                  ></img>
+                  Live
                 </a>
               </div>
             </div>
