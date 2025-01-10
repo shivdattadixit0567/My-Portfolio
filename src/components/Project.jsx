@@ -25,7 +25,10 @@ function Project() {
                   className="w-7 h-7"
                   src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
                 ></img>
-                <a href="https://github.com/shivdattadixit0567/Expense-Tracker">
+                <a
+                  href="https://github.com/shivdattadixit0567/Expense-Tracker"
+                  target="_blank"
+                >
                   Live
                 </a>
               </div>
@@ -47,7 +50,10 @@ function Project() {
                   className="w-7 h-7"
                   src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
                 ></img>
-                <a href="https://github.com/shivdattadixit0567/FullStack-Blog-App">
+                <a
+                  href="https://github.com/shivdattadixit0567/FullStack-Blog-App"
+                  target="_blank"
+                >
                   Live
                 </a>
               </div>
@@ -69,7 +75,10 @@ function Project() {
                   className="w-7 h-7"
                   src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
                 ></img>
-                <a href="https://github.com/shivdattadixit0567/My-Portfolio">
+                <a
+                  href="https://github.com/shivdattadixit0567/My-Portfolio"
+                  target="_blank"
+                >
                   Live
                 </a>
               </div>

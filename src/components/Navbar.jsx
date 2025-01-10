@@ -9,27 +9,37 @@ function Navbar() {
         <ul className="flex">
           <li className="mr-14">
             <AnchorLink href="#home">
-              <button>Home</button>
+              <button className="hover:bg-indigo-500 hover:text-white hover:rounded-3xl">
+                Home
+              </button>
             </AnchorLink>
           </li>
           <li className="mr-14">
             <AnchorLink href="#about">
-              <button>About</button>
+              <button className="hover:bg-indigo-500 hover:text-white hover:rounded-3xl">
+                About
+              </button>
             </AnchorLink>
           </li>
           <li className="mr-14">
             <AnchorLink href="#skill">
-              <button>Skill</button>
+              <button className="hover:bg-indigo-500 hover:text-white hover:rounded-3xl">
+                Skill
+              </button>
             </AnchorLink>
           </li>
           <li className="mr-14">
             <AnchorLink href="#project">
-              <button>Project</button>
+              <button className="hover:bg-indigo-500 hover:text-white hover:rounded-3xl">
+                Project
+              </button>
             </AnchorLink>
           </li>
           <li className="mr-14">
             <AnchorLink href="#contact">
-              <button>Contact</button>
+              <button className="hover:bg-indigo-500 hover:text-white hover:rounded-3xl">
+                Contact
+              </button>
             </AnchorLink>
           </li>
         </ul>
