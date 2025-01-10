@@ -16,28 +16,28 @@ function Navbar() {
           </li>
           <li className="mr-14">
             <AnchorLink href="#about">
-              <button className="hover:bg-indigo-500 hover:text-white hover:rounded-3xl">
+              <button className="hover:bg-indigo-500 hover:text-white hover:rounded-3xl p-4 active:drop-shadow-2xl">
                 About
               </button>
             </AnchorLink>
           </li>
           <li className="mr-14">
             <AnchorLink href="#skill">
-              <button className="hover:bg-indigo-500 hover:text-white hover:rounded-3xl">
+              <button className="hover:bg-indigo-500 hover:text-white hover:rounded-3xl p-4 active:drop-shadow-2xl">
                 Skill
               </button>
             </AnchorLink>
           </li>
           <li className="mr-14">
             <AnchorLink href="#project">
-              <button className="hover:bg-indigo-500 hover:text-white hover:rounded-3xl">
+              <button className="hover:bg-indigo-500 hover:text-white hover:rounded-3xl p-4 active:drop-shadow-2xl">
                 Project
               </button>
             </AnchorLink>
           </li>
           <li className="mr-14">
             <AnchorLink href="#contact">
-              <button className="hover:bg-indigo-500 hover:text-white hover:rounded-3xl">
+              <button className="hover:bg-indigo-500 hover:text-white hover:rounded-3xl p-4 active:drop-shadow-2xl">
                 Contact
               </button>
             </AnchorLink>
