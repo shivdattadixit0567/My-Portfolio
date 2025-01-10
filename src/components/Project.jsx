@@ -28,8 +28,9 @@ function Project() {
                   <img
                     className="w-7 h-7"
                     src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                  ></img>
-                  Live
+                  >
+                    Live
+                  </img>
                 </a>
               </div>
             </div>
@@ -53,8 +54,9 @@ function Project() {
                   <img
                     className="w-7 h-7"
                     src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                  ></img>
-                  Live
+                  >
+                    Live
+                  </img>
                 </a>
               </div>
             </div>
@@ -71,10 +73,6 @@ function Project() {
                 A portfolio website built with HTML, CSS, and JavaScript
               </p>
               <div className="flex p-1">
-                <img
-                  className="w-7 h-7"
-                  src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                ></img>
                 <a
                   href="https://github.com/shivdattadixit0567/My-Portfolio"
                   target="_blank"
@@ -82,8 +80,10 @@ function Project() {
                   <img
                     className="w-7 h-7"
                     src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                  ></img>
-                  Live
+                  >
+                    {" "}
+                    Live{" "}
+                  </img>
                 </a>
               </div>
             </div>
