@@ -69,7 +69,7 @@ function Project() {
                   className="w-7 h-7"
                   src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
                 ></img>
-                <a href="https://github.com/shivdattadixit0567/Expense-Tracker">
+                <a href="https://github.com/shivdattadixit0567/My-Portfolio">
                   Live
                 </a>
               </div>
