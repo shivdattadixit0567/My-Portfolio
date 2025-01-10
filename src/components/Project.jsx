@@ -20,7 +20,7 @@ function Project() {
               <p className="p-1">
                 A full-stack expense solution built with MERN stack
               </p>
-              <div className="flex p-1">
+              <div className="p-1">
                 <a
                   className="inline-block"
                   href="https://github.com/shivdattadixit0567/Expense-Tracker"
@@ -46,7 +46,7 @@ function Project() {
               <p className="p-1">
                 A Blog application with user authentication and CRUD operations
               </p>
-              <div className="flex p-1">
+              <div className="p-1">
                 <a
                   className="inline-block"
                   href="https://github.com/shivdattadixit0567/FullStack-Blog-App"
@@ -72,15 +72,15 @@ function Project() {
               <p className="p-1">
                 A portfolio website built with HTML, CSS, and JavaScript
               </p>
-              <div className="flex p-1">
+              <div className="p-1">
                 <a
                   className="inline-block"
-                  href="https://github.com/shivdattadixit0567/My-Portfolio"
+                  href="https://my-portfolio-pi-teal-48.vercel.app/"
                   target="_blank"
                 >
                   <img
                     className="w-7 h-7"
-                    src="https://my-portfolio-pi-teal-48.vercel.app/"
+                    src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
                   />
                   Live
                 </a>
