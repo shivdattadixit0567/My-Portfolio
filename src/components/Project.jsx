@@ -8,7 +8,7 @@ function Project() {
     >
       <div className="w-[80%]">
         <h1 className="text-3xl font-bold text-indigo-500 mt-20">Projects</h1>
-        <div className="flex justify-between">
+        <div className="md:flex md:justify-between">
           <div className="mt-10 flex justify-between">
             <div className="w-80 h-21rem hover:drop-shadow-2xl bg-slate-50 pl-4 pr-4">
               <img

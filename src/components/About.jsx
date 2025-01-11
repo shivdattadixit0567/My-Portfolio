@@ -4,17 +4,17 @@ function About() {
   return (
     <div
       id="about"
-      className="flex justify-center items-center h-96 drop-shadow-lg"
+      className="md:flex md:justify-center md:items-center md:h-auto drop-shadow-lg"
     >
-      <div className="w-[80%] flex justify-between my-10">
-        <div className="w-80 h-72">
+      <div className="md:w-[80%] md:flex md:flex-row md:flex-wrap md:justify-between sm:full sm:flex sm:flex-col sm:justify-center sm:items-center my-10">
+        <div className="w-80 h-72 ml-10 mt-10">
           <img
             className="w-full h-full rounded-3xl"
             src="MyImage-min.jpg"
             alt=""
           />
         </div>
-        <div className="w-[60%] rounded-2xl bg-white">
+        <div className="w-[60%] rounded-2xl bg-white ml-10 mt-10">
           <div className="p-5">
             <h1 className="text-3xl font-bold">About Me</h1>
             <p className="text-lg mt-5">
