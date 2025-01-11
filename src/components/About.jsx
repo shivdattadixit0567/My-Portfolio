@@ -7,7 +7,7 @@ function About() {
       className="md:flex md:justify-center md:items-center md:h-auto drop-shadow-lg"
     >
       <div className="md:w-[80%] md:flex md:flex-row md:flex-wrap md:justify-between sm:full sm:flex sm:flex-col sm:justify-center sm:items-center my-10">
-        <div className="w-80 h-72 ml-10 mt-10">
+        <div className="w-80 h-72 ml-10 mt-10 mr-10">
           <img
             className="w-full h-full rounded-3xl"
             src="MyImage-min.jpg"
