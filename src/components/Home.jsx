@@ -1,5 +1,6 @@
 import React from "react";
 import { useState, useEffect, useRef } from "react";
+import { Link } from "react-router"; // from react-router-dom
 function Home() {
   let str = "Hi, I am SHIV DATTA DIXIT . . .";
   const [value, setValue] = useState("");
@@ -28,9 +29,13 @@ function Home() {
           </h1>
         </div>
         <div className="m-3">
-          <button className="bg-white text-indigo-500 font-bold py-2 px-4 rounded-3xl active:drop-shadow-2xl">
+          <a
+            className="bg-white text-indigo-500 font-bold py-2 px-4 rounded-3xl active:drop-shadow-2xl"
+            href="https://drive.google.com/file/d/1d9kQpfDzV5bRzv_Q-RpaMJ9oDZFNmzlN/view?usp=sharing"
+            target="_blank"
+          >
             Download CV
-          </button>
+          </a>
         </div>
       </div>
     </div>
