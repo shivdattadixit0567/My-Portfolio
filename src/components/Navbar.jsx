@@ -9,7 +9,7 @@ function Navbar() {
   return (
     <div className="sticky top-0 z-10">
       <div className="flex md:justify-around bg-white md:h-[4rem] md:items-center justify-between p-2 h-[3rem]">
-        <h1>logo</h1>
+        <img src="logo.jpg" className="w-10 h-10 m-10" alt="" />
         <div className="w-28 md:w-auto">
           <button onClick={show} className="md:hidden pl-3">
             <img className="w-5 h-5" src="/menu-burger.png" alt="" />
