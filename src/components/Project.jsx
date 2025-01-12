@@ -20,16 +20,19 @@ function Project() {
               <p className="p-1">
                 A full-stack expense solution built with MERN stack
               </p>
-              <div className="p-1">
+              <div className="p-1 flex justify-between">
                 <a
                   className="inline-block"
                   href="https://github.com/shivdattadixit0567/Expense-Tracker"
                   target="_blank"
                 >
-                  <img
-                    className="w-7 h-7"
-                    src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                  />
+                  View
+                </a>
+                <a
+                  href="https://expense-tracker-hr7a.onrender.com/"
+                  target="_blank"
+                >
+                  {" "}
                   Live
                 </a>
               </div>
@@ -46,16 +49,19 @@ function Project() {
               <p className="p-1">
                 A Blog application with user authentication and CRUD operations
               </p>
-              <div className="p-1">
+              <div className="p-1 flex justify-between">
                 <a
                   className="inline-block"
                   href="https://github.com/shivdattadixit0567/FullStack-Blog-App"
                   target="_blank"
                 >
-                  <img
-                    className="w-7 h-7"
-                    src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                  />
+                  View
+                </a>
+                <a
+                  href="https://fullstack-blog-app-v8ng.onrender.com/"
+                  target="_blank"
+                >
+                  {" "}
                   Live
                 </a>
               </div>
@@ -72,16 +78,19 @@ function Project() {
               <p className="p-1">
                 A portfolio website built with HTML, CSS, and JavaScript
               </p>
-              <div className="p-1">
+              <div className="p-1 flex justify-between">
                 <a
                   className="inline-block"
+                  href="https://github.com/shivdattadixit0567/My-Portfolio"
+                  target="_blank"
+                >
+                  View
+                </a>
+                <a
                   href="https://my-portfolio-pi-teal-48.vercel.app/"
                   target="_blank"
                 >
-                  <img
-                    className="w-7 h-7"
-                    src="https://cdn-icons-png.flaticon.com/512/6928/6928929.png"
-                  />
+                  {" "}
                   Live
                 </a>
               </div>
