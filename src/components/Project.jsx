@@ -29,7 +29,7 @@ function Project() {
                   View
                 </a>
                 <a
-                  href="https://expense-tracker-iota-self.vercel.app/"
+                  href="https://expense-tracker-hr7a.onrender.com"
                   target="_blank"
                 >
                   {" "}
